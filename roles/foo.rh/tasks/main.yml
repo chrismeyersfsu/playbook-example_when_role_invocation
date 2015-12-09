@@ -1,0 +1,3 @@
+---
+# tasks file for foo.rh
+- debug: msg="I am foo"

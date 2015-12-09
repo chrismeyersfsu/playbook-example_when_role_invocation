@@ -1,0 +1,3 @@
+---
+# tasks file for foo.debian
+- debug: msg="I am debian"

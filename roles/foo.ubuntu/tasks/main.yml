@@ -1,0 +1,3 @@
+---
+# tasks file for foo.ubuntu
+- debug: msg="I am ubuntu"
